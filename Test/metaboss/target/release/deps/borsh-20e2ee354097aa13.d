@@ -1,0 +1,13 @@
+/home/pureay/Sol-Game-S0-Test/metaboss/target/release/deps/borsh-20e2ee354097aa13.rmeta: /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/lib.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/mod.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/hint.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema_helpers.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/mod.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/helpers.rs
+
+/home/pureay/Sol-Game-S0-Test/metaboss/target/release/deps/libborsh-20e2ee354097aa13.rlib: /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/lib.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/mod.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/hint.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema_helpers.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/mod.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/helpers.rs
+
+/home/pureay/Sol-Game-S0-Test/metaboss/target/release/deps/borsh-20e2ee354097aa13.d: /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/lib.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/mod.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/hint.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema_helpers.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/mod.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/helpers.rs
+
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/lib.rs:
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/mod.rs:
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/hint.rs:
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema.rs:
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema_helpers.rs:
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/mod.rs:
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/helpers.rs:

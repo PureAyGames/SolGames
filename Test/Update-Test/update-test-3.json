@@ -1,0 +1,30 @@
+{
+    "name": "Token#3",
+    "symbol": "SG",
+    "uri": "https://arweave.net/jLSgxIjQHg9EaW8YA7pXHS05l6qXNPp3g1SJ4HY_D7k",
+    "sellerFeeBasisPoints": 690,
+    "attributes": [
+        {
+          "trait_type": "HeadsOrTails",
+          "value": "Heads"
+        }
+      ],
+    "creators": [
+      {
+              "address": "3H6G47Ssiog8m2NhwwcwLt76ehiq4nWep3H7BoZ7GgMT",
+              "verified": true,
+              "share": 0
+      },
+      {
+        "address": "4EYsghoc1s626aQHuRTkAMkPRZnwWacSADuKjWLdbJYE",
+        "verified": true,
+        "share": 0
+      },
+      {
+        "address": "H7CwryZbiUjzvQpgo5Fcjmovtpm4aiNfxkS96uedmK4R",
+        "verified": true,
+        "share": 100
+      }
+    ]
+  
+  }

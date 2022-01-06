@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/pureay/Sol-Game-S0-Test/metaboss/target/release/build/typenum-1d75ae335768cfe3/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/pureay/Sol-Game-S0-Test/metaboss/target/release/build/typenum-1d75ae335768cfe3/out/op.rs

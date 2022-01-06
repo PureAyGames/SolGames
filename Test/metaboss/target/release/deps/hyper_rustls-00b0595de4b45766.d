@@ -1,0 +1,11 @@
+/home/pureay/Sol-Game-S0-Test/metaboss/target/release/deps/hyper_rustls-00b0595de4b45766.rmeta: /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.0/src/lib.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.0/src/config.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.0/src/connector.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.0/src/connector/builder.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.0/src/stream.rs
+
+/home/pureay/Sol-Game-S0-Test/metaboss/target/release/deps/libhyper_rustls-00b0595de4b45766.rlib: /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.0/src/lib.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.0/src/config.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.0/src/connector.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.0/src/connector/builder.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.0/src/stream.rs
+
+/home/pureay/Sol-Game-S0-Test/metaboss/target/release/deps/hyper_rustls-00b0595de4b45766.d: /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.0/src/lib.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.0/src/config.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.0/src/connector.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.0/src/connector/builder.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.0/src/stream.rs
+
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.0/src/lib.rs:
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.0/src/config.rs:
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.0/src/connector.rs:
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.0/src/connector/builder.rs:
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/hyper-rustls-0.23.0/src/stream.rs:

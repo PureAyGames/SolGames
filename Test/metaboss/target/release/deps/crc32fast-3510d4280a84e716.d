@@ -1,0 +1,12 @@
+/home/pureay/Sol-Game-S0-Test/metaboss/target/release/deps/crc32fast-3510d4280a84e716.rmeta: /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/lib.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/baseline.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/combine.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/specialized/mod.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/table.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/specialized/pclmulqdq.rs
+
+/home/pureay/Sol-Game-S0-Test/metaboss/target/release/deps/libcrc32fast-3510d4280a84e716.rlib: /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/lib.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/baseline.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/combine.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/specialized/mod.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/table.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/specialized/pclmulqdq.rs
+
+/home/pureay/Sol-Game-S0-Test/metaboss/target/release/deps/crc32fast-3510d4280a84e716.d: /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/lib.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/baseline.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/combine.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/specialized/mod.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/table.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/specialized/pclmulqdq.rs
+
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/lib.rs:
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/baseline.rs:
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/combine.rs:
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/specialized/mod.rs:
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/table.rs:
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/specialized/pclmulqdq.rs:

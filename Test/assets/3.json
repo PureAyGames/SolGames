@@ -1,0 +1,29 @@
+{
+  "name": "Token#3",
+  "symbol": "SG",
+  "image": "3.png",
+  "attributes": [
+      {
+        "trait_type": "HeadsOrTails",
+        "value": "Tails"
+      }
+    ],
+    "collection": {
+      "name": "Sol Game: Season 0",
+      "family": "Sol Game"
+   },
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "H7CwryZbiUjzvQpgo5Fcjmovtpm4aiNfxkS96uedmK4R",
+        "share": 100
+      }
+    ]
+  }
+}

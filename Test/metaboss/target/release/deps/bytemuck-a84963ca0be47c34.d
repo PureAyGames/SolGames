@@ -1,0 +1,12 @@
+/home/pureay/Sol-Game-S0-Test/metaboss/target/release/deps/bytemuck-a84963ca0be47c34.rmeta: /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/lib.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/zeroable.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/pod.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/contiguous.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/offset_of.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/transparent.rs
+
+/home/pureay/Sol-Game-S0-Test/metaboss/target/release/deps/libbytemuck-a84963ca0be47c34.rlib: /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/lib.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/zeroable.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/pod.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/contiguous.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/offset_of.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/transparent.rs
+
+/home/pureay/Sol-Game-S0-Test/metaboss/target/release/deps/bytemuck-a84963ca0be47c34.d: /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/lib.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/zeroable.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/pod.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/contiguous.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/offset_of.rs /home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/transparent.rs
+
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/lib.rs:
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/zeroable.rs:
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/pod.rs:
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/contiguous.rs:
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/offset_of.rs:
+/home/pureay/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.3/src/transparent.rs:
